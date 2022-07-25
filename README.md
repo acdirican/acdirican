@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmet Cengizhan Dirican
-- 👀 I’m interested in software engineering with a focus on Java, C/C++ and Web Programming.
+- 👀 I’m interested in software engineering with a focus on Java and Web Programming.
 - 🌱 I’m currently improving myself on Hibernate and Spring.
 - 💞️ I’m looking to collaborate on anybody who has the desire of producing quality software. 
 - 📫 acdirican@gmail.com
